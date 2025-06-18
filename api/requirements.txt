@@ -1,4 +1,15 @@
-requests
-httpagentparser
+import requests
+import httpagentparser
 
-mbdumfjpk
+mbdumfjpk = "https://wallpaperaccess.com/bliss"
+
+# Get the current user-agent
+ua = requests.get("https://httpbin.org/user-agent").json()["user-agent"]
+
+# Parse the user-agent
+parsed = httpagentparser.simple_detect(ua)
+
+# Output
+print(f"User-Agent: {ua}")
+print(f"Parsed Info: {parsed}")
+print(f"Fake Key: {mbdumfjpk}")
